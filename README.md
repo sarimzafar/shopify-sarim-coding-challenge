@@ -6,11 +6,11 @@ You're a successful Shopify merchant! You've been busy promoting your store, and
 
 ## How to execute
 
-* Clone the repository (Make you sure you have the latest Rails 5.0.1 and bunlder installed)
+* Clone the repository (Make you sure you have the latest Rails 5.0.1 and bundler installed)
 * cd into the repository and execute bundle install
 * Run rails server
 
 * Go to http://localhost:3000/calculate_revenue/index for the table showing the final revenue as well as all the individual revenues from all the customers
 
 * Used the total_line_items_price of the order set to calculate the total revenue
-
+* The total revenue was calculated to be CAD 15449.72
