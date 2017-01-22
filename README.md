@@ -12,5 +12,5 @@ You're a successful Shopify merchant! You've been busy promoting your store, and
 
 * Go to http://localhost:3000/calculate_revenue/index for the table showing the final revenue as well as all the individual revenues from all the customers
 
-* Used the total_line_items_price of the order set to calculate the total cost
+* Used the total_line_items_price of the order set to calculate the total revenue
 
